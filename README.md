@@ -12,4 +12,4 @@ Before running the code, please check and adjust the parameter settings accordin
 
 ## Contact Information
 For any questions or suggestions, please contact me through the following ways:
-- Email: [Your Email]
+- Email: yifeiwang98sicau@gmail.com
